@@ -1,7 +1,7 @@
 Package.describe({
-  name: 'lgandecki:youtube-iframe-player',
+  name: 'hpx7:youtube-iframe-player',
   summary: 'Control YouTube\'s embedded player using Meteor',
-  version: '0.4.15',
+  version: '0.4.16',
   git: 'https://github.com/lgandecki/meteor-youtube-iframe-player.git'
 });
 
